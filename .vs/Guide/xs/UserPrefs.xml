@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E461B03C-EECD-4A0B-B2FF-0EBFB47F7F49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guide/RegisterWindowController.cs">
+    <Files>
+      <File FileName="Guide/AppDelegate.cs" Line="19" Column="68" />
+      <File FileName="Guide/MainWindowController.cs" Line="135" Column="22" />
+      <File FileName="Guide/RegisterWindowController.cs" Line="87" Column="11" />
+      <File FileName="Guide/RegisterWindow2Controller.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Guide" expanded="True">
+            <Node name="Guide" expanded="True">
+              <Node name="RegisterWindowController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Guide PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
